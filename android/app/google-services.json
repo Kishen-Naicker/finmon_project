@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55104036457",
+    "project_id": "finmon-flutter",
+    "storage_bucket": "finmon-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55104036457:android:6db2362a07e916a5c94cf8",
+        "android_client_info": {
+          "package_name": "com.example.finmon_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDzqWBLX60884NkMHprPSNJUxt4mslSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
